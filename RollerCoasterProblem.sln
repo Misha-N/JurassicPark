@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollerCoasterProblem", "RollerCoasterProblem\RollerCoasterProblem.csproj", "{68F3AC42-8EE0-4432-B835-73C9E9EAD658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F3AC42-8EE0-4432-B835-73C9E9EAD658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F3AC42-8EE0-4432-B835-73C9E9EAD658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F3AC42-8EE0-4432-B835-73C9E9EAD658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F3AC42-8EE0-4432-B835-73C9E9EAD658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EADE27EF-136A-40B9-8971-8A958C857329}
+	EndGlobalSection
+EndGlobal
